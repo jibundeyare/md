@@ -18,12 +18,12 @@ Mainly, it uses the following packages :
 ## Usage
 
     make
-    ./md.sh src/test.md
+    bin/md.sh src/test.md
     php -S localhost:8000 -t public
 
 And open [http://localhost:8000/test.html](http://localhost:8000/test.html).
 
 ## Syntax
 
-    php md.php --head assets/html/head.html --tail assets/html/tail.html -d public src/test.md
+    php bin/md.php --head assets/html/head.html --tail assets/html/tail.html -d public src/test.md
 
