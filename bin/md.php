@@ -13,7 +13,7 @@ use Symfony\Component\Filesystem\Filesystem;
 use Symfony\Component\Finder\Finder;
 use Symfony\Component\String\UnicodeString;
 
-require __DIR__.'/vendor/autoload.php';
+require __DIR__.'/../vendor/autoload.php';
 
 $description = <<<EOT
 Generates an HTML file from a Markdown source.
