@@ -1,0 +1,8 @@
+/node_modules
+/public
+/src
+!/src/test.md
+/vendor
+npm-debug.log
+yarn-error.log
+

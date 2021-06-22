@@ -1,0 +1,9 @@
+{
+    "require": {
+        "league/commonmark": "^1.6",
+        "symfony/filesystem": "^5.0",
+        "symfony/finder": "^5.3",
+        "symfony/console": "^5.3",
+        "symfony/string": "^5.3"
+    }
+}

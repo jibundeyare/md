@@ -1,0 +1,11 @@
+{
+  "plugins": [
+    ["prismjs", {
+        "languages": ["css", "javascript", "markup", "php", "yaml"],
+        "plugins": ["line-numbers", "diff-highlight"],
+        "theme": "okaidia",
+        "css": true
+    }]
+  ]
+}
+
